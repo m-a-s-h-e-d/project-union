@@ -8,4 +8,4 @@ Development will start upon completion of my other projects. This project will l
 As I am currently a one-man team, I would love to get some help through quality assurance, music composition, story writing, game design and graphics. A Discord server will be created near the start of development and applications to join our team will be opened.
 
 ## Inquiries
-Any inquiries about this project can be made through my Discord DMs. You can contact me through `Mashed#7999`
+Any inquiries about this project can be made through my Discord DMs. You can contact me through ```Mashed#7999```
